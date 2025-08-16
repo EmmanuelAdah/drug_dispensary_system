@@ -1,6 +1,5 @@
 from data.models.gender import Gender
 
-
 class Drugs:
     drugs = list()
 
